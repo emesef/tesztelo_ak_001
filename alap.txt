@@ -1,2 +1,2 @@
-master branch elsõ commit B branch módosítás
+master branch elsõ commit B branch módosítás bbb
 Beolvasom a jelszo.txt-bõl az adatbázis felhasználó nevét és jelszavát, amely alapján csatlakozom a szoftverbõk a rendszer adatbázisához
