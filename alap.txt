@@ -1,2 +1,3 @@
 master branch
 Beolvasom a jelszo.txt-bõl az adatbázis felhasználó nevét és jelszavát, amely alapján csatlakozom a szoftverbõk a rendszer adatbázisához
+modositva
